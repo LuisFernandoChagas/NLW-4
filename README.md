@@ -14,12 +14,12 @@
 
 ## Index
 
-- [about](#-About)
-- [Tecnologias utilizadas](#-Tecnologias-utilizadas)
-- [Melhorias](#-Melhorias)
-- [Como instalar](#-Como-instalar)
-- [Créditos](#-Creditos)
-- [Licença](#-Licença)
+- [about](#About)
+- [Tecnologias utilizadas](#Tecnologias-utilizadas)
+- [Melhorias](#Melhorias)
+- [Como instalar](#Como-instalar)
+- [Créditos](#Creditos)
+- [Licença](#Licença)
 
 ---
 
