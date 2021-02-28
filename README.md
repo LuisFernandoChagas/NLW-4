@@ -18,7 +18,7 @@
 - [Tecnologias utilizadas](#Tecnologias-utilizadas)
 - [Melhorias](#Melhorias)
 - [Como instalar](#Como-instalar)
-- [Créditos](#Creditos)
+- [Créditos](#Créditos)
 - [Licença](#Licença)
 
 ---
